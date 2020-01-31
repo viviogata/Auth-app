@@ -31,7 +31,7 @@ ii>git clone https://github.com/viviogata/Auth-app.git
 
 12>First register and then login
 
-13>Admin login details Email=admin@me.com and Password=12345.
+13>Admin login details Email=admin@me.com and Password=12345
 
 ### Tools Used
 * HTML
