@@ -39,7 +39,3 @@ ii>git clone https://github.com/viviogata/Auth-app.git
 * MySQL
 * VUE.JS 
 * PHP
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
